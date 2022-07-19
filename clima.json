@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "temp": 17.2,
+        "desc": "Cielo nublado",
+        "img": "img/nubeClimaBlanca.png",
+        "ubi": "Córdoba Argentina" 
+    }
+]
